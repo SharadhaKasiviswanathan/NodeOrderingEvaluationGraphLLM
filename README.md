@@ -12,10 +12,15 @@ Experiments are conducted with **Llama 3.2** and **Gemma 3:12B**, using various 
 ## Repository Structure
 
 ├── output_poly_multi_table/ # Experimental outputs and accuracy tables
+
 ├── ordering_experiment_poly_multi_table.py # Main script for running experiments
+
 ├── plot_results.py # Script to generate performance plots
+
 ├── run_experiment.sh # Shell script to automate experiments
+
 ├── run_ordering_poly_multi_table.sh # Shell script for ordering-specific experiments
+
 └── README.md # Project documentation
 
 
